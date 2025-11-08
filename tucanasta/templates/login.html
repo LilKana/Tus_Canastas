@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>Login</title>
+
+  {% load static %}
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{% static 'css/login.css' %}">
+</head>
+<body>
+  <div class="login-container">
+    <h1>Iniciar sesión</h1>
+
+    {% if messages %}
+      {% for message in messages %}
+        <p class="error-message" style="background: rgba(0,200,255,0.1); border-left: 4px solid #00c8ff;">
+          {{ message }}
+        </p>
+      {% endfor %}
+    {% endif %}
+
+    <form method="post" action="{% url 'login' %}">
+      {% csrf_token %}
+      <p>
+        <label for="id_username">Usuario</label><br>
+        <input type="text" name="username" id="id_username" required>
+      </p>
+
+      <p>
+        <label for="id_password">Contraseña</label><br>
+        <input type="password" name="password" id="id_password" required>
+      </p>
+
+      <button type="submit">Entrar</button>
+    </form>
+
+    <p>¿No tienes cuenta? <a href="{% url 'signup' %}">Crear cuenta</a></p>
+    <p><a href="{% url 'index' %}">← Volver</a></p>
+  </div>
+</body>
+</html>

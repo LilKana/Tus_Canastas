@@ -1,0 +1,741 @@
+[
+  {
+    "model": "tucanasta.supermercado",
+    "pk": 1,
+    "fields": {
+      "nombre": "Líder",
+      "url_principal": "https://www.lider.cl"
+    }
+  },
+  {
+    "model": "tucanasta.supermercado",
+    "pk": 2,
+    "fields": {
+      "nombre": "Jumbo",
+      "url_principal": "https://www.jumbo.cl"
+    }
+  },
+  {
+    "model": "tucanasta.supermercado",
+    "pk": 3,
+    "fields": {
+      "nombre": "Unimarc",
+      "url_principal": "https://www.unimarc.cl"
+    }
+  },
+  {
+    "model": "tucanasta.supermercado",
+    "pk": 4,
+    "fields": {
+      "nombre": "Santa Isabel",
+      "url_principal": "https://www.santaisabel.cl"
+    }
+  },
+  {
+  "model": "tucanasta.producto",
+  "pk": 1,
+  "fields": {
+    "nombre": "Arroz Grado 1 1kg",
+    "marca": "Tucapel",
+    "tipo": "Arroz",
+    "descripcion": "Grano largo ancho, categoría 1.",
+    "supermercado": 1,
+    "precio": "1190.00",
+    "moneda": "CLP",
+    "imagen_url": "https://lider.cl/arroz.jpg",
+    "producto_url": "https://lider.cl/p/arroz-tucapel-1kg",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+  {
+  "model": "tucanasta.producto",
+  "pk": 2,
+  "fields": {
+    "nombre": "Arroz para sushi 2kg",
+    "marca": "Tucapel",
+    "tipo": "Arroz",
+    "descripcion": "Arroz para sushi 2kg",
+    "supermercado": 1,
+    "precio": "6520.00",
+    "moneda": "CLP",
+    "imagen_url": "https://i5.walmartimages.cl/asr/6c3e3842-92b4-44a0-9331-b4306a5cad1d.746f462b7125960a6dfcc030403a63c3.webp?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "producto_url": "https://www.lider.cl/ip/arroz-y-legumbres/arroz-para-sushi-2kg/00780142000181?from=/search",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+  {
+  "model": "tucanasta.producto",
+  "pk": 3,
+  "fields": {
+    "nombre": "Arroz Grado 2 Grano Largo y Delgado Bolsa, 1 kg",
+    "marca": "Lider",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Grado 2 Grano Largo y Delgado Bolsa, 1 kg",
+    "supermercado": 1,
+    "precio": "1390.00",
+    "moneda": "CLP",
+    "imagen_url": "https://i5.walmartimages.cl/asr/c5de3dbf-e2bf-4532-8d36-ebededaf2f8e.f377d2591ea27de567064077dcae3373.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "producto_url": "https://super.lider.cl/ip/nuestras-marcas/00780460822421?from=/search",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 4,
+  "fields": {
+    "nombre": "Arroz Grado 1",
+    "marca": "Cuisine & Co",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Grado 1 Grano Largo y Delgado 1 kg",
+    "supermercado": 4,
+    "precio": "1870.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/268448-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-largo-fino-1-kg-cuisine-and-co-1845786/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 5,
+  "fields": {
+    "nombre": "Arroz Grado 2",
+    "marca": "Cuisine & Co",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Grado 2 Cuisine & Co Largo y Delgado 1 kg",
+    "supermercado": 4,
+    "precio": "1250.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/268449-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-largo-fino-1-kg-cuisine-and-co-1845787/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 6,
+  "fields": {
+    "nombre": "Arroz Grado 2 Máxima",
+    "marca": "Máxima",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Grado 2 Máxima Grano Largo Angosto 1 kg",
+    "supermercado": 4,
+    "precio": "1250.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/516668-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-grado-2-maxima-1-kg-grano-largo-angosto-1223046/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 7,
+  "fields": {
+    "nombre": "Arroz Grado 1 Miraflores ",
+    "marca": "Miraflores ",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Grado 1 Miraflores Grano Largo y Ancho 1 kg",
+    "supermercado": 4,
+    "precio": "2090.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/276491-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-grado-1-miraflores-1-kg-grano-largo-y-ancho/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 9,
+  "fields": {
+    "nombre": "Arroz Grado 1 Banquete ",
+    "marca": "Banquete",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Grado 1 Banquete Premium Grano Largo y Ancho 1 kg",
+    "supermercado": 4,
+    "precio": "2090.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/161771-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-grado-1-banquete-1-kg-premium-grano-largo-y-ancho/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+}
+,
+{
+  "model": "tucanasta.producto",
+  "pk": 10,
+  "fields": {
+    "nombre": "Arroz Grado 2 Tucapel ",
+    "marca": "Tucapel",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Grado 2 Tucapel Gran Selección Grano Largo y Ancho 1 kg",
+    "supermercado": 4,
+    "precio": "2130.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/184937-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-grado-2-tucapel-1-kg-gran-seleccion-grano-largo-y-ancho/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 11,
+  "fields": {
+    "nombre": "Arroz Grado 1 Tucapel",
+    "marca": "Tucapel",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Grado 1 Tucapel Gran Selección Grano Largo y Ancho 1 kg",
+    "supermercado": 4,
+    "precio": "2350.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/184933-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-grado-1-tucapel-gran-seleccion-grano-largo-y-ancho-1-kg/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 12,
+  "fields": {
+    "nombre": "Arroz Grado 2 Tucapel ",
+    "marca": "Tucapel",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Grado 2 Tucapel Blue Grano Largo y Delgado 1 kg",
+    "supermercado": 4,
+    "precio": "1790.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/184976-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-grado-2-tucapel-1-kg-blue-bonnet-grano-largo-y-delgado/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 13,
+  "fields": {
+    "nombre": "Arroz Grado 1 Tucapel ",
+    "marca": "Tucapel",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Grado 1 Tucapel Pregraneado Grano Largo 1 kg",
+    "supermercado": 4,
+    "precio": "1770.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/184934-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-grado-1-tucapel-1-kg-pregraneado-grano-largo/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 14,
+  "fields": {
+    "nombre": "Arroz Grado 1 Grano Largo",
+    "marca": "Cuisine & Co",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Grado 1 Grano Largo y Ancho 1 kg",
+    "supermercado": 4,
+    "precio": "2020.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/268459-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-cuisine-y-co-g1-grano-largo-ancho1kg/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 15,
+  "fields": {
+    "nombre": "Arroz Pregraneado",
+    "marca": "Miraflores",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Pregraneado Miraflores 1 kg",
+    "supermercado": 4,
+    "precio": "2490.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/180670-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-miraflores-1-kg-pregraneado-grado-1-grano-largo/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 16,
+  "fields": {
+    "nombre": "Arroz Tucapel Grado 2",
+    "marca": "Tucapel",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Tucapel Grado 2 500 g",
+    "supermercado": 4,
+    "precio": "1200.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/512657-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-miraflores-1-kg-pregraneado-grado-1-grano-largo/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 17,
+  "fields": {
+    "nombre": "Arroz Integral Grado 1",
+    "marca": "Cuisine & Co",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Integral Grado 1 Largo y Ancho 1 kg",
+    "supermercado": 4,
+    "precio": "2270.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/268462-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-integral-c-y-co-1-kg/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 18,
+  "fields": {
+    "nombre": "Arroz Pregraneado 1 kg",
+    "marca": "Cuisine & Co",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Pregraneado 1 kg",
+    "supermercado": 4,
+    "precio": "2050.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/268455-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-integral-c-y-co-1-kg/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 19,
+  "fields": {
+    "nombre": "Arroz Grado 2",
+    "marca": "Cuisine & Co",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Grado 2 grano Largo y Ancho 1 kg",
+    "supermercado": 4,
+    "precio": "1840.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/268455-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-cuisine-y-co-g2-grano-largo-ancho1kg/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 20,
+  "fields": {
+    "nombre": "Arroz Grado 2 ",
+    "marca": "Cuisine & Co",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Grado 2 grano Largo y Ancho 1 kg",
+    "supermercado": 4,
+    "precio": "1840.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/268460-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-cuisine-y-co-g2-grano-largo-ancho1kg/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+}
+,
+{
+  "model": "tucanasta.producto",
+  "pk": 21,
+  "fields": {
+    "nombre": "Arroz Basmati ",
+    "marca": "Cuisine & Co",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Basmati Cuisine & Co 400 g",
+    "supermercado": 4,
+    "precio": "1970.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/502159-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-basmati-cuisine-and-co-400g-2005273/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 22,
+  "fields": {
+    "nombre": "Arroz Grado 1 Banquete ",
+    "marca": "Banquete",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Grado 1 Banquete Premium Grano Largo 2 kg",
+    "supermercado": 4,
+    "precio": "4390.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/155779-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-grado-1-banquete-2-kg-envase-degradable/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+}
+,
+{
+  "model": "tucanasta.producto",
+  "pk": 23,
+  "fields": {
+    "nombre": "Arroz Grado 2",
+    "marca": "Miraflores",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Grado 2 Miraflores Grano Largo y Laminado 1 kg",
+    "supermercado": 4,
+    "precio": "2190.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/180782-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-miraflores-1-kg-grado-2-grano-largo-laminado/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 24,
+  "fields": {
+    "nombre": "Arroz Grado 2 Banquete ",
+    "marca": "Banquete",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Grado 2 Banquete Premium Grano Largo y Ancho 1 kg",
+    "supermercado": 4,
+    "precio": "2050.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/161767-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-grado-2-banquete-1-kg-premium-grano-largo-y-ancho/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 25,
+  "fields": {
+    "nombre": "Arroz Preparado Miraflores Chaufan 210 g",
+    "marca": "Miraflores",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Grado 2 Banquete Premium Grano Largo y Ancho 1 kg",
+    "supermercado": 4,
+    "precio": "1150.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/180822-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-especial-miraflores-sobre-210-g-preparado-chaufan/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 26,
+  "fields": {
+    "nombre": "Arroz Grado 1 Tucapel",
+    "marca": "Tucapel",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Grado 1 Tucapel Integral 1 kg",
+    "supermercado": 4,
+    "precio": "2790.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/184936-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-integral-tucapel-1-kg-grado-1/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+}
+,
+{
+  "model": "tucanasta.producto",
+  "pk": 27,
+  "fields": {
+    "nombre": "Arroz Preparado Miraflores Campesino",
+    "marca": "Miraflores",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Preparado Miraflores Campesino 210 g",
+    "supermercado": 4,
+    "precio": "1150.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/180511-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-especial-miraflores-210-g-campesino-listo-para-preparar/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 28,
+  "fields": {
+    "nombre": "Arroz Grado 1 Grano Largo",
+    "marca": "Cuisine & Co",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Grado 1 Grano Largo y Ancho 3 kg",
+    "supermercado": 4,
+    "precio": "5890.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/268461-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-g1-largo-ancho-c-y-co-3-kg/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 29,
+  "fields": {
+    "nombre": "Arroz Preparado Miraflores Champiñón",
+    "marca": "Miraflores",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Preparado Miraflores Champiñón 210 g",
+    "supermercado": 4,
+    "precio": "5890.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/180774-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-especial-miraflores-sobre-210-g-preparado-champinones/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+}
+,
+{
+  "model": "tucanasta.producto",
+  "pk": 30,
+  "fields": {
+    "nombre": "Arroz Preparado Miraflores Champiñón",
+    "marca": "Miraflores",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Preparado Miraflores Champiñón 210 g",
+    "supermercado": 4,
+    "precio": "1150.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/180774-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-especial-miraflores-sobre-210-g-preparado-champinones/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 31,
+  "fields": {
+    "nombre": "Arroz Basmati Miraflore",
+    "marca": "Miraflores",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Basmati Miraflores 400 g",
+    "supermercado": 4,
+    "precio": "2960.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/288004-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-basmati-grano-largo-y-delgado-400-g/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 32,
+  "fields": {
+    "nombre": "Arroz Basmati Miraflore",
+    "marca": "Miraflores",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Basmati Miraflores 400 g",
+    "supermercado": 4,
+    "precio": "2960.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/288004-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-basmati-grano-largo-y-delgado-400-g/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 33,
+  "fields": {
+    "nombre": "Arroz Preparado Primavera",
+    "marca": "Miraflores",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Preparado Primavera 210 g",
+    "supermercado": 4,
+    "precio": "1150.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/180773-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-especial-miraflores-sobre-210-g-preparado-primavera/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 34,
+  "fields": {
+    "nombre": "Arroz Especial Tucapel Preparado",
+    "marca": "Tucapel",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Especial Tucapel Preparado Curry Champiñón Sobre 210 g",
+    "supermercado": 4,
+    "precio": "970.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/184942-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-especial-tucapel-sobre-210-g-preparado-curry-champinon/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+}
+,
+{
+  "model": "tucanasta.producto",
+  "pk": 35,
+  "fields": {
+    "nombre": "Arroz Basmati Tucapel",
+    "marca": "Tucapel",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Basmati Tucapel 400 g",
+    "supermercado": 4,
+    "precio": "2390.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/264174-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-basmati-tucapel-400-grs-1955039/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 35,
+  "fields": {
+    "nombre": "Arroz Grado 1 Iansa",
+    "marca": "Iansa Agro",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Grado 1 Iansa Agro Gran Selección 1 kg",
+    "supermercado": 4,
+    "precio": "2750.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/518083-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-grado-1-largo-y-ancho-1-kg/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 36,
+  "fields": {
+    "nombre": "Arroz Preparado Miraflores",
+    "marca": "Miraflores",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Preparado Miraflores Curry 175 g",
+    "supermercado": 4,
+    "precio": "1150.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/180848-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-especial-miraflores-sobre-210-g-preparado-curry/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+}
+    ,
+{
+  "model": "tucanasta.producto",
+  "pk": 37,
+  "fields": {
+    "nombre": "Arroz Grado 1 Tucapel",
+    "marca": "Tucapel",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Grado 1 Tucapel Grano Largo Delgado 1 kg",
+    "supermercado": 4,
+    "precio": "2250.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/184931-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-tucapel-grado-1-blue-bonnet-1-kg/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+}
+   ,
+{
+  "model": "tucanasta.producto",
+  "pk": 38,
+  "fields": {
+    "nombre": "Arroz Grado 2 Tucapel",
+    "marca": "Tucapel",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Grado 2 Tucapel Grano Largo y Ancho Graneado 1 kg",
+    "supermercado": 4,
+    "precio": "1990.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/161773-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-grado-2-tucapel-1-kg-graneado-grano-largo-y-ancho/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+}   
+,
+{
+  "model": "tucanasta.producto",
+  "pk": 39,
+  "fields": {
+    "nombre": "Arroz Risotto Miraflores",
+    "marca": "Miraflores",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Risotto Miraflores 400 g",
+    "supermercado": 4,
+    "precio": "2210.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/186311-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-risotto-carnaroli-400-g/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+}   ,
+{
+  "model": "tucanasta.producto",
+  "pk": 40,
+  "fields": {
+    "nombre": "Arroz Grado 2 Iansa",
+    "marca": "Iansa Agro",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Grado 2 Iansa Agro 1 kg",
+    "supermercado": 4,
+    "precio": "2430.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/518100-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-grado-2-largo-y-ancho-1-kg/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+}    ,
+{
+  "model": "tucanasta.producto",
+  "pk": 41,
+  "fields": {
+    "nombre": "Arroz Preparado Miraflores Paella",
+    "marca": "Miraflores",
+    "tipo": "Arroz",
+    "descripcion": "Arroz Preparado Miraflores Paella 175 g",
+    "supermercado": 4,
+    "precio": "1150.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/180754-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/arroz-especial-miraflores-paella-175-g/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+}   
+
+]
