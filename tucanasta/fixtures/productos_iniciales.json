@@ -736,6 +736,550 @@
     "disponible": true,
     "fecha_actualizacion": "2025-10-27T00:00:00Z"
   }
-}   
-
+},
+333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333
+{
+  "model": "tucanasta.producto",
+  "pk": 42,
+  "fields": {
+    "nombre": "Harina Selecta Sin Polvos de Hornear",
+    "marca": "Selecta",
+    "tipo": "Harina",
+    "descripcion": "Harina Selecta Sin Polvos de Hornear 1kg",
+    "supermercado": 2,
+    "precio": "1390.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/300202-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-sin-polvos-de-hornear-selecta-1-kg-2/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 43,
+  "fields": {
+    "nombre": "Harina Selecta Con Polvos de Hornear",
+    "marca": "Selecta",
+    "tipo": "Harina",
+    "descripcion": "Harina Selecta Con Polvos de Hornear 1kg",
+    "supermercado": 2,
+    "precio": "1390.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/300147-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-con-polvos-de-hornear-selecta-1-kg-2/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 44,
+  "fields": {
+    "nombre": "Harina Sin Polvos de Hornear",
+    "marca": "Cuisine & Co",
+    "tipo": "Harina",
+    "descripcion": "Harina Cuisine & Co Sin Polvos de Hornear 1 kg",
+    "supermercado": 2,
+    "precio": "1390.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/379781-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-sin-polvo-de-hornear-1-kg/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 45,
+  "fields": {
+    "nombre": "Harina Collico de Fuerza",
+    "marca": "Collico",
+    "tipo": "Harina",
+    "descripcion": "Harina Collico de Fuerza 1 kg",
+    "supermercado": 2,
+    "precio": "1390.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/374621-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-de-fuerza-collico-1-kg-1893326/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 46,
+  "fields": {
+    "nombre": "Harina con Polvos de Hornear",
+    "marca": "Cuisine & Co",
+    "tipo": "Harina",
+    "descripcion": "Harina con Polvos de Hornear 1 kg",
+    "supermercado": 2,
+    "precio": "1390.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/380124-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/har-cpol-1k-c-y-co/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 47,
+  "fields": {
+    "nombre": "Harina Selecta Sin Polvos de Hornear",
+    "marca": "Selecta",
+    "tipo": "Harina",
+    "descripcion": "Harina Selecta Sin Polvos de Hornear 3 kg",
+    "supermercado": 2,
+    "precio": "4.390.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/347204-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-sin-polvos-de-hornear-selecta-bolsa-3-kg-2/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 48,
+  "fields": {
+    "nombre": "Harina Sin Polvos de Hornear",
+    "marca": "Mont Blanc",
+    "tipo": "Harina",
+    "descripcion": "Harina  Sin Polvos de Hornear 1 kg",
+    "supermercado": 2,
+    "precio": "1380.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/347189-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-sin-polvos-de-hornear-mont-blanc-bolsa-1-kg/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 49,
+  "fields": {
+    "nombre": "Harina Fuerza Sin Blanqueador 5 kg",
+    "marca": "La Estampa",
+    "tipo": "Harina",
+    "descripcion": "Harina Fuerza Sin Blanqueador 5 kg",
+    "supermercado": 2,
+    "precio": "9390.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/367653-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-fuerza-sin-blanqueador-5-kg/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 50,
+  "fields": {
+    "nombre": "Harina Flor Collico Sin Polvos de Hornear ",
+    "marca": "Collico",
+    "tipo": "Harina",
+    "descripcion": "Harina Flor Collico Sin Polvos de Hornear 1 kg",
+    "supermercado": 2,
+    "precio": "1490.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/360068-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-flor-collico-env-papel-1kg/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 51,
+  "fields": {
+    "nombre": "Harina Sin Polvos de Hornear ",
+    "marca": "Cuisine & Co",
+    "tipo": "Harina",
+    "descripcion": "Harina Sin Polvos de Hornear 3 kg",
+    "supermercado": 2,
+    "precio": "3990.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/380371-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-cuisine-and-co-sin-polvo-3-kg-1899552/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 52,
+  "fields": {
+    "nombre": "Harina Selecta Sin Polvos de Hornear",
+    "marca": "Selecta",
+    "tipo": "Harina",
+    "descripcion": "Harina Selecta Sin Polvos de Hornear 5 kg",
+    "supermercado": 2,
+    "precio": "7190.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/347205-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-sin-polvos-de-hornear-selecta-bolsa-5-kg-2/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 53,
+  "fields": {
+    "nombre": "Harina Sin Polvos de Hornear",
+    "marca": "Cuisine & Co",
+    "tipo": "Harina",
+    "descripcion": "Harina Sin Polvos de Hornear 10 kg",
+    "supermercado": 2,
+    "precio": "10990.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/380369-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-cuisine-and-co-sin-polvo-10-kg-1899554/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 54,
+  "fields": {
+    "nombre": "Harina de Fuerza",
+    "marca": "La Fuente Natural",
+    "tipo": "Harina",
+    "descripcion": "Harina de Fuerza 1 kg",
+    "supermercado": 2,
+    "precio": "2570.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/375421-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-de-fuerza-1kg-1898040/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 55,
+  "fields": {
+    "nombre": "Harina Sin Polvos de Hornear",
+    "marca": "Cuisine & Co",
+    "tipo": "Harina",
+    "descripcion": "Harina Sin Polvos de Hornear 5 kg",
+    "supermercado": 2,
+    "precio": "6490.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/380335-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-cuisine-and-co-sin-polvo-5-kg-1899553/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 56,
+  "fields": {
+    "nombre": "Harina Selecta Especial Panadería",
+    "marca": "Selecta",
+    "tipo": "Harina",
+    "descripcion": "Harina Selecta Especial Panadería 650 g",
+    "supermercado": 2,
+    "precio": "2030.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/347199-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-selecta-bolsa-650-g-bake-para-panaderia-fina-con-levadura-2/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 57,
+  "fields": {
+    "nombre": "Harina Sin Polvos de Hornear",
+    "marca": "Selecta",
+    "tipo": "Harina",
+    "descripcion": "Harina Selecta Sin Polvos de Hornear 10 kg",
+    "supermercado": 2,
+    "precio": "12190.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/347203-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-sin-polvos-de-hornear-selecta-10-kg-2/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},{
+  "model": "tucanasta.producto",
+  "pk": 42,
+  "fields": {
+    "nombre": "Harina Selecta Sin Polvos de Hornear",
+    "marca": "Selecta",
+    "tipo": "Harina",
+    "descripcion": "Harina Selecta Sin Polvos de Hornear 1kg",
+    "supermercado": 1,
+    "precio": "1390.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/300202-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-sin-polvos-de-hornear-selecta-1-kg-2/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 43,
+  "fields": {
+    "nombre": "Harina Selecta Con Polvos de Hornear",
+    "marca": "Selecta",
+    "tipo": "Harina",
+    "descripcion": "Harina Selecta Con Polvos de Hornear 1kg",
+    "supermercado": 1,
+    "precio": "1390.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/300147-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-con-polvos-de-hornear-selecta-1-kg-2/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 44,
+  "fields": {
+    "nombre": "Harina Sin Polvos de Hornear",
+    "marca": "Cuisine & Co",
+    "tipo": "Harina",
+    "descripcion": "Harina Cuisine & Co Sin Polvos de Hornear 1 kg",
+    "supermercado": 1,
+    "precio": "1390.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/379781-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-sin-polvo-de-hornear-1-kg/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 45,
+  "fields": {
+    "nombre": "Harina Collico de Fuerza",
+    "marca": "Collico",
+    "tipo": "Harina",
+    "descripcion": "Harina Collico de Fuerza 1 kg",
+    "supermercado": 1,
+    "precio": "1390.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/374621-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-de-fuerza-collico-1-kg-1893326/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 46,
+  "fields": {
+    "nombre": "Harina con Polvos de Hornear",
+    "marca": "Cuisine & Co",
+    "tipo": "Harina",
+    "descripcion": "Harina con Polvos de Hornear 1 kg",
+    "supermercado": 1,
+    "precio": "1390.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/380124-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/har-cpol-1k-c-y-co/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 47,
+  "fields": {
+    "nombre": "Harina Selecta Sin Polvos de Hornear",
+    "marca": "Selecta",
+    "tipo": "Harina",
+    "descripcion": "Harina Selecta Sin Polvos de Hornear 3 kg",
+    "supermercado": 1,
+    "precio": "4.390.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/347204-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-sin-polvos-de-hornear-selecta-bolsa-3-kg-2/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 48,
+  "fields": {
+    "nombre": "Harina Sin Polvos de Hornear",
+    "marca": "Mont Blanc",
+    "tipo": "Harina",
+    "descripcion": "Harina  Sin Polvos de Hornear 1 kg",
+    "supermercado": 1,
+    "precio": "1380.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/347189-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-sin-polvos-de-hornear-mont-blanc-bolsa-1-kg/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 49,
+  "fields": {
+    "nombre": "Harina Fuerza Sin Blanqueador 5 kg",
+    "marca": "La Estampa",
+    "tipo": "Harina",
+    "descripcion": "Harina Fuerza Sin Blanqueador 5 kg",
+    "supermercado": 1,
+    "precio": "9390.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/367653-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-fuerza-sin-blanqueador-5-kg/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 50,
+  "fields": {
+    "nombre": "Harina Flor Collico Sin Polvos de Hornear ",
+    "marca": "Collico",
+    "tipo": "Harina",
+    "descripcion": "Harina Flor Collico Sin Polvos de Hornear 1 kg",
+    "supermercado": 1,
+    "precio": "1490.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/360068-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-flor-collico-env-papel-1kg/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 51,
+  "fields": {
+    "nombre": "Harina Sin Polvos de Hornear ",
+    "marca": "Cuisine & Co",
+    "tipo": "Harina",
+    "descripcion": "Harina Sin Polvos de Hornear 3 kg",
+    "supermercado": 1,
+    "precio": "3990.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/380371-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-cuisine-and-co-sin-polvo-3-kg-1899552/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 52,
+  "fields": {
+    "nombre": "Harina Selecta Sin Polvos de Hornear",
+    "marca": "Selecta",
+    "tipo": "Harina",
+    "descripcion": "Harina Selecta Sin Polvos de Hornear 5 kg",
+    "supermercado": 1,
+    "precio": "7190.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/347205-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-sin-polvos-de-hornear-selecta-bolsa-5-kg-2/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 53,
+  "fields": {
+    "nombre": "Harina Sin Polvos de Hornear",
+    "marca": "Cuisine & Co",
+    "tipo": "Harina",
+    "descripcion": "Harina Sin Polvos de Hornear 10 kg",
+    "supermercado": 1,
+    "precio": "10990.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/380369-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-cuisine-and-co-sin-polvo-10-kg-1899554/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 54,
+  "fields": {
+    "nombre": "Harina de Fuerza",
+    "marca": "La Fuente Natural",
+    "tipo": "Harina",
+    "descripcion": "Harina de Fuerza 1 kg",
+    "supermercado": 1,
+    "precio": "2570.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/375421-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-de-fuerza-1kg-1898040/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 55,
+  "fields": {
+    "nombre": "Harina Sin Polvos de Hornear",
+    "marca": "Cuisine & Co",
+    "tipo": "Harina",
+    "descripcion": "Harina Sin Polvos de Hornear 5 kg",
+    "supermercado": 1,
+    "precio": "6490.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/380335-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-cuisine-and-co-sin-polvo-5-kg-1899553/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 56,
+  "fields": {
+    "nombre": "Harina Selecta Especial Panadería",
+    "marca": "Selecta",
+    "tipo": "Harina",
+    "descripcion": "Harina Selecta Especial Panadería 650 g",
+    "supermercado": 1,
+    "precio": "2030.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/347199-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-selecta-bolsa-650-g-bake-para-panaderia-fina-con-levadura-2/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 57,
+  "fields": {
+    "nombre": "Harina Sin Polvos de Hornear",
+    "marca": "Selecta",
+    "tipo": "Harina",
+    "descripcion": "Harina Selecta Sin Polvos de Hornear 10 kg",
+    "supermercado": 1,
+    "precio": "12190.00",
+    "moneda": "CLP",
+    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/347203-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.jumbo.cl/harina-sin-polvos-de-hornear-selecta-10-kg-2/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+}
+####me falta lider
 ]
