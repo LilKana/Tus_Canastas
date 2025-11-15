@@ -737,7 +737,7 @@
     "fecha_actualizacion": "2025-10-27T00:00:00Z"
   }
 },
-333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333333
+
 {
   "model": "tucanasta.producto",
   "pk": 42,
@@ -1009,277 +1009,739 @@
     "disponible": true,
     "fecha_actualizacion": "2025-10-27T00:00:00Z"
   }
-},{
+},
+{
   "model": "tucanasta.producto",
-  "pk": 42,
+  "pk": 58,
+  "fields": {
+    "nombre": "Harina Sin Polvos De Hornear",
+    "marca": "Lider",
+    "tipo": "Harina",
+    "descripcion": "Harina Sin Polvos De Hornear, 1 kg",
+    "supermercado": 1,
+    "precio": "1000.00",
+    "moneda": "CLP",
+    "imagen_url": "https://i5.walmartimages.cl/asr/316330d7-2e33-4796-bbf0-421a6d587e9d.b6d2e00c2dcdec7d43c8a96b3f93e982.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "producto_url": "https://super.lider.cl/ip/conoce-nuestras-marcas/00780955920066?from=/search",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 59,
+  "fields": {
+    "nombre": "Harina Selecta Con Polvos de Hornear",
+    "marca": "Mont Blanc",
+    "tipo": "Harina",
+    "descripcion": "Harina Selecta Con Polvos de Hornear 1kg",
+    "supermercado": 1,
+    "precio": "1290.00",
+    "moneda": "CLP",
+    "imagen_url": "https://i5.walmartimages.cl/asr/580d3b7b-aa66-4718-8fed-7e918fbc55b2.247c4df81cd88d2b88c7585e848d8324.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "producto_url": "https://super.lider.cl/ip/harinas-y-polvos/00780261500561?from=/search",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 60,
+  "fields": {
+    "nombre": "Harina con Polvos de Hornear",
+    "marca": "Lider",
+    "tipo": "Harina",
+    "descripcion": "Harina con Polvos de Hornear 1 kg",
+    "supermercado": 1,
+    "precio": "1000.00",
+    "moneda": "CLP",
+    "imagen_url": "https://i5.walmartimages.cl/asr/053a586e-92be-40ba-85c4-a8fd0c7d07aa.f215bf75f70d12e55910d620ba0e8935.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "producto_url": "https://super.lider.cl/ip/harinas-y-polvos/00780955920067?from=/search",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},  
+{
+  "model": "tucanasta.producto",
+  "pk": 61,
+  "fields": {
+    "nombre": "Harina Sin Polvos de Hornear ",
+    "marca": "Acuenta",
+    "tipo": "Harina",
+    "descripcion": "Harina Sin Polvos de Hornear, 1kg",
+    "supermercado": 1,
+    "precio": "880.00",
+    "moneda": "CLP",
+    "imagen_url": "https://i5.walmartimages.cl/asr/35c67673-7a33-4501-8e6d-51977c3e3dad.a3f084eebe4da01ae4f20147d33a053d.jpeg?null=&odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "producto_url": "https://super.lider.cl/ip/harinas-y-polvos/00780955920033?from=/search",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 62,
   "fields": {
     "nombre": "Harina Selecta Sin Polvos de Hornear",
     "marca": "Selecta",
     "tipo": "Harina",
-    "descripcion": "Harina Selecta Sin Polvos de Hornear 1kg",
+    "descripcion": "Harina Selecta Sin Polvos de Hornear, 1kg",
     "supermercado": 1,
-    "precio": "1390.00",
+    "precio": "1590.00",
     "moneda": "CLP",
-    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/300202-900-900?width=900&height=900&aspect=true",
-    "producto_url": "https://www.jumbo.cl/harina-sin-polvos-de-hornear-selecta-1-kg-2/p",
+    "imagen_url": "https://i5.walmartimages.cl/asr/cb4c06b0-3c95-423b-8827-633f72041d45.b7ff86ed6a800395c90407005404fb20.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "producto_url": "https://super.lider.cl/ip/harinas-y-polvos/00780261500520?from=/search",
     "disponible": true,
     "fecha_actualizacion": "2025-10-27T00:00:00Z"
   }
 },
 {
   "model": "tucanasta.producto",
-  "pk": 43,
+  "pk": 63,
   "fields": {
-    "nombre": "Harina Selecta Con Polvos de Hornear",
-    "marca": "Selecta",
+    "nombre": "Harina con Polvos de Hornear",
+    "marca": "Mont Blanc",
     "tipo": "Harina",
     "descripcion": "Harina Selecta Con Polvos de Hornear 1kg",
     "supermercado": 1,
-    "precio": "1390.00",
+    "precio": "1290.00",
     "moneda": "CLP",
-    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/300147-900-900?width=900&height=900&aspect=true",
-    "producto_url": "https://www.jumbo.cl/harina-con-polvos-de-hornear-selecta-1-kg-2/p",
+    "imagen_url": "https://i5.walmartimages.cl/asr/1e920f64-8b1f-4b0b-990a-15ffc88c044c.dc3761fad8c15f89d2bdddc6fcfdedaa.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "producto_url": "https://super.lider.cl/ip/harinas-y-polvos/00780261500551?from=/search",
     "disponible": true,
     "fecha_actualizacion": "2025-10-27T00:00:00Z"
   }
 },
 {
   "model": "tucanasta.producto",
-  "pk": 44,
+  "pk": 64,
   "fields": {
-    "nombre": "Harina Sin Polvos de Hornear",
-    "marca": "Cuisine & Co",
+    "nombre": "Harina con Polvos de Hornear",
+    "marca": "Selecta",
     "tipo": "Harina",
-    "descripcion": "Harina Cuisine & Co Sin Polvos de Hornear 1 kg",
+    "descripcion": "Harina con Polvos de Hornear 1 kg",
     "supermercado": 1,
-    "precio": "1390.00",
+    "precio": "1590.00",
     "moneda": "CLP",
-    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/379781-900-900?width=900&height=900&aspect=true",
-    "producto_url": "https://www.jumbo.cl/harina-sin-polvo-de-hornear-1-kg/p",
+    "imagen_url": "https://i5.walmartimages.cl/asr/d85522b1-ae6d-492d-9b96-49045a9b8649.7558bcc5e2561801bda8cb0653554186.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "producto_url": "https://super.lider.cl/ip/harinas-y-polvos/00780261500510?from=/search",
     "disponible": true,
     "fecha_actualizacion": "2025-10-27T00:00:00Z"
   }
 },
 {
   "model": "tucanasta.producto",
-  "pk": 45,
+  "pk": 65,
   "fields": {
-    "nombre": "Harina Collico de Fuerza",
+    "nombre": "Harina con Polvos de Hornear",
+    "marca": "Acuenta",
+    "tipo": "Harina",
+    "descripcion": "Harina con Polvos de Hornear 1 kg",
+    "supermercado": 1,
+    "precio": "880.00",
+    "moneda": "CLP",
+    "imagen_url": "https://i5.walmartimages.cl/asr/7f81b1f7-4325-41f1-b41f-72838ce9c85c.aeb9bcac44f7a480e89fad6f853cb2ff.jpeg?null=&odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "producto_url": "https://super.lider.cl/ip/conoce-nuestras-marcas/00780955920034?from=/search",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 66,
+  "fields": {
+    "nombre": "Harina de Fuerza",
     "marca": "Collico",
     "tipo": "Harina",
     "descripcion": "Harina Collico de Fuerza 1 kg",
     "supermercado": 1,
-    "precio": "1390.00",
+    "precio": "1850.00",
     "moneda": "CLP",
-    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/374621-900-900?width=900&height=900&aspect=true",
-    "producto_url": "https://www.jumbo.cl/harina-de-fuerza-collico-1-kg-1893326/p",
+    "imagen_url": "https://i5.walmartimages.cl/asr/23048048-e24b-46f6-b96d-255c920419cb.1c59704a0d022c540ccc99554e71672a.jpeg?null=&odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "producto_url": "https://super.lider.cl/ip/harinas-y-polvos/00780262600155?from=/search",
     "disponible": true,
     "fecha_actualizacion": "2025-10-27T00:00:00Z"
   }
 },
 {
   "model": "tucanasta.producto",
-  "pk": 46,
+  "pk": 67,
   "fields": {
-    "nombre": "Harina con Polvos de Hornear",
-    "marca": "Cuisine & Co",
+    "nombre": "Harina todo uso ",
+    "marca": "Molino El Peral",
     "tipo": "Harina",
-    "descripcion": "Harina con Polvos de Hornear 1 kg",
+    "descripcion": "Harina todo uso, 1kg",
     "supermercado": 1,
-    "precio": "1390.00",
+    "precio": "1050.00",
     "moneda": "CLP",
-    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/380124-900-900?width=900&height=900&aspect=true",
-    "producto_url": "https://www.jumbo.cl/har-cpol-1k-c-y-co/p",
+    "imagen_url": "https://i5.walmartimages.cl/asr/37b28091-5554-4a9f-b7ec-d81a6c8643e6.52c771a5ed09f4ccb0237396a5c0c629.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "producto_url": "https://super.lider.cl/ip/harinas-y-polvos/00780265100001?from=/search",
     "disponible": true,
     "fecha_actualizacion": "2025-10-27T00:00:00Z"
   }
 },
 {
   "model": "tucanasta.producto",
-  "pk": 47,
-  "fields": {
-    "nombre": "Harina Selecta Sin Polvos de Hornear",
-    "marca": "Selecta",
-    "tipo": "Harina",
-    "descripcion": "Harina Selecta Sin Polvos de Hornear 3 kg",
-    "supermercado": 1,
-    "precio": "4.390.00",
-    "moneda": "CLP",
-    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/347204-900-900?width=900&height=900&aspect=true",
-    "producto_url": "https://www.jumbo.cl/harina-sin-polvos-de-hornear-selecta-bolsa-3-kg-2/p",
-    "disponible": true,
-    "fecha_actualizacion": "2025-10-27T00:00:00Z"
-  }
-},
-{
-  "model": "tucanasta.producto",
-  "pk": 48,
+  "pk": 68,
   "fields": {
     "nombre": "Harina Sin Polvos de Hornear",
     "marca": "Mont Blanc",
     "tipo": "Harina",
-    "descripcion": "Harina  Sin Polvos de Hornear 1 kg",
-    "supermercado": 1,
-    "precio": "1380.00",
+    "descripcion": "Harina Selecta Sin Polvos de Hornear 1 kg",
+    "supermercado": 3,
+    "precio": "1090.00",
     "moneda": "CLP",
-    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/347189-900-900?width=900&height=900&aspect=true",
-    "producto_url": "https://www.jumbo.cl/harina-sin-polvos-de-hornear-mont-blanc-bolsa-1-kg/p",
+    "imagen_url": "https://unimarc.vtexassets.com/arquivos/ids/204437/000000000000005964-UN-01.jpg?v=637402202356630000",
+    "producto_url": "https://www.unimarc.cl/product/harina-mont-blanc-sin-polvos-1-kg",
     "disponible": true,
     "fecha_actualizacion": "2025-10-27T00:00:00Z"
   }
 },
 {
   "model": "tucanasta.producto",
-  "pk": 49,
+  "pk": 69,
   "fields": {
-    "nombre": "Harina Fuerza Sin Blanqueador 5 kg",
-    "marca": "La Estampa",
+    "nombre": "Harina Sin Polvos De Hornear",
+    "marca": "Merkat",
     "tipo": "Harina",
-    "descripcion": "Harina Fuerza Sin Blanqueador 5 kg",
-    "supermercado": 1,
-    "precio": "9390.00",
+    "descripcion": "Harina Sin Polvos De Hornear, 1 kg",
+    "supermercado": 3,
+    "precio": "870.00",
     "moneda": "CLP",
-    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/367653-900-900?width=900&height=900&aspect=true",
-    "producto_url": "https://www.jumbo.cl/harina-fuerza-sin-blanqueador-5-kg/p",
+    "imagen_url": "https://unimarc.vtexassets.com/arquivos/ids/193622/000000000000358336-UN-01.jpg?v=637223869566300000",
+    "producto_url": "https://www.unimarc.cl/product/harina-s-polvo-merkat-1-kg",
     "disponible": true,
     "fecha_actualizacion": "2025-10-27T00:00:00Z"
   }
 },
 {
   "model": "tucanasta.producto",
-  "pk": 50,
+  "pk": 70,
   "fields": {
-    "nombre": "Harina Flor Collico Sin Polvos de Hornear ",
-    "marca": "Collico",
+    "nombre": "Harina Con Polvos de Hornear",
+    "marca": "Mont Blanc",
     "tipo": "Harina",
-    "descripcion": "Harina Flor Collico Sin Polvos de Hornear 1 kg",
-    "supermercado": 1,
-    "precio": "1490.00",
+    "descripcion": "Harina  Con Polvos de Hornear, 1kg",
+    "supermercado": 3,
+    "precio": "1080.00",
     "moneda": "CLP",
-    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/360068-900-900?width=900&height=900&aspect=true",
-    "producto_url": "https://www.jumbo.cl/harina-flor-collico-env-papel-1kg/p",
+    "imagen_url": "https://unimarc.vtexassets.com/arquivos/ids/204436/000000000000005963-UN-01.jpg?v=637402200552370000",
+    "producto_url": "https://www.unimarc.cl/product/harina-mont-blanc-c-polvos-1kg",
     "disponible": true,
     "fecha_actualizacion": "2025-10-27T00:00:00Z"
   }
 },
 {
   "model": "tucanasta.producto",
-  "pk": 51,
+  "pk": 71,
+  "fields": {
+    "nombre": "Harina con Polvos de Hornear",
+    "marca": "Merkat",
+    "tipo": "Harina",
+    "descripcion": "Harina con Polvos de Hornear 1 kg",
+    "supermercado": 3,
+    "precio": "870.00",
+    "moneda": "CLP",
+    "imagen_url": "https://unimarc.vtexassets.com/arquivos/ids/193621/000000000000358335-UN-01.jpg?v=637223868882370000",
+    "producto_url": "https://www.unimarc.cl/product/harina-c-polvo-merkat-1-kg",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},  
+{
+  "model": "tucanasta.producto",
+  "pk": 72,
   "fields": {
     "nombre": "Harina Sin Polvos de Hornear ",
-    "marca": "Cuisine & Co",
+    "marca": "Selecta",
     "tipo": "Harina",
-    "descripcion": "Harina Sin Polvos de Hornear 3 kg",
-    "supermercado": 1,
-    "precio": "3990.00",
+    "descripcion": "Harina Sin Polvos de Hornear, 5kg",
+    "supermercado": 3,
+    "precio": "6200.00",
     "moneda": "CLP",
-    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/380371-900-900?width=900&height=900&aspect=true",
-    "producto_url": "https://www.jumbo.cl/harina-cuisine-and-co-sin-polvo-3-kg-1899552/p",
+    "imagen_url": "https://unimarc.vtexassets.com/arquivos/ids/196158/000000000000005962-UN-01.jpg?v=637268443559930000",
+    "producto_url": "https://www.unimarc.cl/product/harina-selecta-sin-polvos-5-kg",
     "disponible": true,
     "fecha_actualizacion": "2025-10-27T00:00:00Z"
   }
 },
 {
   "model": "tucanasta.producto",
-  "pk": 52,
+  "pk": 73,
   "fields": {
     "nombre": "Harina Selecta Sin Polvos de Hornear",
     "marca": "Selecta",
     "tipo": "Harina",
-    "descripcion": "Harina Selecta Sin Polvos de Hornear 5 kg",
-    "supermercado": 1,
-    "precio": "7190.00",
+    "descripcion": "Harina Selecta Sin Polvos de Hornear, 1kg",
+    "supermercado": 3,
+    "precio": "1690.00",
     "moneda": "CLP",
-    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/347205-900-900?width=900&height=900&aspect=true",
-    "producto_url": "https://www.jumbo.cl/harina-sin-polvos-de-hornear-selecta-bolsa-5-kg-2/p",
+    "imagen_url": "https://unimarc.vtexassets.com/arquivos/ids/204435/000000000000005959-UN-01.jpg?v=637402195489930000",
+    "producto_url": "https://www.unimarc.cl/product/harina-selecta-sin-polvos-1-kg",
     "disponible": true,
     "fecha_actualizacion": "2025-10-27T00:00:00Z"
   }
 },
 {
   "model": "tucanasta.producto",
-  "pk": 53,
+  "pk": 74,
   "fields": {
-    "nombre": "Harina Sin Polvos de Hornear",
+    "nombre": "Harina de avena Selecta integral",
+    "marca": "Selecta",
+    "tipo": "Harina",
+    "descripcion": "Harina de avena Selecta integral 1kg",
+    "supermercado": 3,
+    "precio": "2560.00",
+    "moneda": "CLP",
+    "imagen_url": "https://unimarc.vtexassets.com/arquivos/ids/239097/000000000000668455-UN-01.jpg?v=638501086914870000",
+    "producto_url": "https://www.unimarc.cl/product/harina-de-avena-integral-selecta-850-gr",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 75,
+  "fields": {
+    "nombre": "Harina blanca de maíz Pan precocida",
+    "marca": "Pan",
+    "tipo": "Harina",
+    "descripcion": "Harina blanca de maíz Pan precocida 1 kg",
+    "supermercado": 1,
+    "precio": "1590.00",
+    "moneda": "CLP",
+    "imagen_url": "https://unimarc.vtexassets.com/arquivos/ids/231893/000000000617418001-UN-01.jpg?v=638096692305030000",
+    "producto_url": "https://www.unimarc.cl/product/harina-de-maiz-precocid-pan-1kg-blanca",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 76,
+  "fields": {
+    "nombre": "Harina Sin Polvos de Hornear ",
+    "marca": "Merkat",
+    "tipo": "Harina",
+    "descripcion": "Harina Sin Polvos de Hornear 25 kg",
+    "supermercado": 3,
+    "precio": "15990.00",
+    "moneda": "CLP",
+    "imagen_url": "https://unimarc.vtexassets.com/arquivos/ids/197106/Harina-Merkat-sin-polvos-de-hornear-25-Kg-1-96352.jpg?v=637279602432070000",
+    "producto_url": "https://www.unimarc.cl/product/harina-merkat-poli-25-kg",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 77,
+  "fields": {
+    "nombre": "Harina Nuestra Cocina sin polvos ",
+    "marca": "Nuestra Cocina",
+    "tipo": "Harina",
+    "descripcion": "Harina Nuestra Cocina sin polvos  1 kg",
+    "supermercado": 3,
+    "precio": "1000.00",
+    "moneda": "CLP",
+    "imagen_url": "https://unimarc.vtexassets.com/arquivos/ids/219937/000000000000652510-UN-01.jpg?v=638887889245570000",
+    "producto_url": "https://www.unimarc.cl/product/harina-s-polvos-nuestra-cocina-1-kg",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 78,
+  "fields": {
+    "nombre": "Harina Nuestra Cocina con polvos ",
+    "marca": "Nuestra Cocina",
+    "tipo": "Harina",
+    "descripcion": "Harina Nuestra Cocina con polvos  1 kg",
+    "supermercado": 3,
+    "precio": "1000.00",
+    "moneda": "CLP",
+    "imagen_url": "https://unimarc.vtexassets.com/arquivos/ids/219938/000000000000652511-UN-01.jpg?v=638887889251600000",
+    "producto_url": "https://www.unimarc.cl/product/harina-c-polvos-nuestra-cocina-1-kg",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 79,
+  "fields": {
+    "nombre": "Harina de arroz Tucapel",
+    "marca": "Tucapel",
+    "tipo": "Harina",
+    "descripcion": "Harina de arroz Tucapel 500g",
+    "supermercado": 3,
+    "precio": "1000.00",
+    "moneda": "CLP",
+    "imagen_url": "https://unimarc.vtexassets.com/arquivos/ids/217049/000000000000792923-UN-01.jpg?v=637608315721570000",
+    "producto_url": "https://www.unimarc.cl/product/harina-arroz-tucapel-500-gr",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 80,
+  "fields": {
+    "nombre": "Harina Máxima Sin Polvos de Hornear ",
+    "marca": "Máxima",
+    "tipo": "Harina",
+    "descripcion": "Harina Máxima Sin Polvos de Hornear 1kg",
+    "supermercado": 4,
+    "precio": "870.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/395804-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/harina-maxima-sin-polvo-1-kg-1624899/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 81,
+  "fields": {
+    "nombre": "Harina Cuisine & Co Sin Polvos de Hornear 1 kg",
     "marca": "Cuisine & Co",
     "tipo": "Harina",
-    "descripcion": "Harina Sin Polvos de Hornear 10 kg",
-    "supermercado": 1,
-    "precio": "10990.00",
+    "descripcion": "Harina Cuisine & Co Sin Polvos de Hornear 1 kg",
+    "supermercado": 4,
+    "precio": "1000.00",
     "moneda": "CLP",
-    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/380369-900-900?width=900&height=900&aspect=true",
-    "producto_url": "https://www.jumbo.cl/harina-cuisine-and-co-sin-polvo-10-kg-1899554/p",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/271022-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/harina-sin-polvo-de-hornear-1-kg-1899550/p",
     "disponible": true,
     "fecha_actualizacion": "2025-10-27T00:00:00Z"
   }
 },
 {
   "model": "tucanasta.producto",
-  "pk": 54,
+  "pk": 82,
+  "fields": {
+    "nombre": "Harina Mont Blanc Sin Polvos de Hornear",
+    "marca": "Mont Blanc",
+    "tipo": "Harina",
+    "descripcion": "Harina Mont Blanc Sin Polvos de Hornear 1 kg",
+    "supermercado": 4,
+    "precio": "1340.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/180687-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/harina-sin-polvos-de-hornear-mont-blanc-bolsa-1-kg/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 83,
+  "fields": {
+    "nombre": "Harina Mont Blanc Con Polvos de Hornear",
+    "marca": "Máxima",
+    "tipo": "Harina",
+    "descripcion": "Harina Mont Blanc Con Polvos de Hornear 1 kg",
+    "supermercado": 4,
+    "precio": "890.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/395805-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/harina-maxima-con-polvo-1-kg-1624900/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 84,
+  "fields": {
+    "nombre": "Harina Mont Blanc con Polvos de Hornear ",
+    "marca": "Mont Blanc",
+    "tipo": "Harina",
+    "descripcion": "Harina Mont Blanc con Polvos de Hornear 1 kg",
+    "supermercado": 4,
+    "precio": "1360.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/180685-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/harina-con-polvos-de-hornear-mont-blanc-bolsa-1-kg/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 85,
+  "fields": {
+    "nombre": "Harina Máxima",
+    "marca": "Máxima",
+    "tipo": "Harina",
+    "descripcion": "Harina Máxima 20 kg",
+    "supermercado": 4,
+    "precio": "14990.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/172840-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/harina-20-kg-1822799/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 86,
+  "fields": {
+    "nombre": "Harina Integral",
+    "marca": "Cuisine & Co",
+    "tipo": "Harina",
+    "descripcion": "Harina Integral 1 kg",
+    "supermercado": 4,
+    "precio": "1390.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/271032-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/harina-integral-cuisine-and-co-1-kg-1899555/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 87,
+  "fields": {
+    "nombre": "Harina Cuisine & Co con Polvos de Hornear",
+    "marca": "Cuisine & Co",
+    "tipo": "Harina",
+    "descripcion": "Harina Cuisine & Co con Polvos de Hornear 1 kg",
+    "supermercado": 4,
+    "precio": "1000.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/271024-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/har-cpol-1k-c-and-co-1899551/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 88,
+  "fields": {
+    "nombre": "Harina de Maíz P.A.N. Blanca Pan",
+    "marca": "Pan",
+    "tipo": "Harina",
+    "descripcion": "Harina de Maíz P.A.N. Blanca Pan 1 kg",
+    "supermercado": 4,
+    "precio": "1850.00",
+    "moneda": "CLP",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/262305-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/harina-de-maiz-p-a-n-1-kg/p",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 89,
   "fields": {
     "nombre": "Harina de Fuerza",
-    "marca": "La Fuente Natural",
-    "tipo": "Harina",
-    "descripcion": "Harina de Fuerza 1 kg",
-    "supermercado": 1,
-    "precio": "2570.00",
-    "moneda": "CLP",
-    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/375421-900-900?width=900&height=900&aspect=true",
-    "producto_url": "https://www.jumbo.cl/harina-de-fuerza-1kg-1898040/p",
-    "disponible": true,
-    "fecha_actualizacion": "2025-10-27T00:00:00Z"
-  }
-},
-{
-  "model": "tucanasta.producto",
-  "pk": 55,
-  "fields": {
-    "nombre": "Harina Sin Polvos de Hornear",
     "marca": "Cuisine & Co",
     "tipo": "Harina",
-    "descripcion": "Harina Sin Polvos de Hornear 5 kg",
-    "supermercado": 1,
-    "precio": "6490.00",
+    "descripcion": "Harina de Fuerza 1 kg",
+    "supermercado": 4,
+    "precio": "1000.00",
     "moneda": "CLP",
-    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/380335-900-900?width=900&height=900&aspect=true",
-    "producto_url": "https://www.jumbo.cl/harina-cuisine-and-co-sin-polvo-5-kg-1899553/p",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/271034-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/harina-de-fuerza-cuisine-and-co-1-kg-1899556/p",
     "disponible": true,
     "fecha_actualizacion": "2025-10-27T00:00:00Z"
   }
 },
 {
   "model": "tucanasta.producto",
-  "pk": 56,
+  "pk": 90,
   "fields": {
-    "nombre": "Harina Selecta Especial Panadería",
-    "marca": "Selecta",
+    "nombre": "Harina Máxima Sin Polvos de Hornear ",
+    "marca": "Máxima",
     "tipo": "Harina",
-    "descripcion": "Harina Selecta Especial Panadería 650 g",
-    "supermercado": 1,
-    "precio": "2030.00",
+    "descripcion": "Harina Máxima Sin Polvos de Hornear 1kg",
+    "supermercado": 4,
+    "precio": "870.00",
     "moneda": "CLP",
-    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/347199-900-900?width=900&height=900&aspect=true",
-    "producto_url": "https://www.jumbo.cl/harina-selecta-bolsa-650-g-bake-para-panaderia-fina-con-levadura-2/p",
+    "imagen_url": "https://santaisabel.vtexassets.com/arquivos/ids/395804-900-900?width=900&height=900&aspect=true",
+    "producto_url": "https://www.santaisabel.cl/harina-maxima-sin-polvo-1-kg-1624899/p",
     "disponible": true,
     "fecha_actualizacion": "2025-10-27T00:00:00Z"
   }
 },
 {
   "model": "tucanasta.producto",
-  "pk": 57,
+  "pk": 91,
   "fields": {
-    "nombre": "Harina Sin Polvos de Hornear",
-    "marca": "Selecta",
-    "tipo": "Harina",
-    "descripcion": "Harina Selecta Sin Polvos de Hornear 10 kg",
-    "supermercado": 1,
-    "precio": "12190.00",
+    "nombre": "Fideo Pasta Spaghetti N°5 Bolsa",
+    "marca": "Lucchetti",
+    "tipo": "Fideos",
+    "descripcion": "Fideo Pasta Spaghetti N°5 Bolsa, 400 g",
+    "supermercado": 4,
+    "precio": "990.00",
     "moneda": "CLP",
-    "imagen_url": "https://jumbocl.vtexassets.com/arquivos/ids/347203-900-900?width=900&height=900&aspect=true",
-    "producto_url": "https://www.jumbo.cl/harina-sin-polvos-de-hornear-selecta-10-kg-2/p",
+    "imagen_url": "https://i5.walmartimages.cl/asr/a0afe1e9-2bf2-4dd4-9ede-6cdaa8fff339.51f4e5e79d47ad6b577440c19aedcd01.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "producto_url": "https://super.lider.cl/ip/pastas-y-salsas/00780250000005?from=/search",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 92,
+  "fields": {
+    "nombre": "Fideo Pasta Spaghetti N°5 Bolsa",
+    "marca": "Carozzi",
+    "tipo": "Fideos",
+    "descripcion": "Fideo Pasta Spaghetti N°5 Bolsa, 400 g",
+    "supermercado": 1,
+    "precio": "1050.00",
+    "moneda": "CLP",
+    "imagen_url": "https://i5.walmartimages.cl/asr/d72fa23a-1bd4-4c1a-800e-3c4bb995e6be.a961ffb4d3f9fb70d27d61333b26ed33.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "producto_url": "https://super.lider.cl/ip/pastas-y-salsas/00780257500443?from=/search",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 93,
+  "fields": {
+    "nombre": "Fideo Pasta Espirales N°49 Bolsa",
+    "marca": "Carozzi",
+    "tipo": "Fideos",
+    "descripcion": "Fideo Pasta Espirales N°49 Bolsa, 400 g",
+    "supermercado": 1,
+    "precio": "1050.00",
+    "moneda": "CLP",
+    "imagen_url": "https://i5.walmartimages.cl/asr/5a16e5ab-0772-441a-b563-fbefaf1f30f5.3fb9e4ac940c073de710f5ce6622b6cd.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "producto_url": "https://super.lider.cl/ip/pastas-y-salsas/00780257500223?from=/search",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 94,
+  "fields": {
+    "nombre": "Fideo Pasta Espirales N°56 Bolsa",
+    "marca": "Lucchetti",
+    "tipo": "Fideos",
+    "descripcion": "Fideo Pasta Espirales N°56 Bolsa, 400 g",
+    "supermercado": 1,
+    "precio": "990.00",
+    "moneda": "CLP",
+    "imagen_url": "https://i5.walmartimages.cl/asr/cb9ea16c-a103-445e-8852-a81e899b590f.3d77b2553509d4861af4f508344ee85e.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "producto_url": "https://super.lider.cl/ip/pastas-y-salsas/00780250000108?from=/search",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 95,
+  "fields": {
+    "nombre": "Fideo Pasta al Huevo Spaghetti N°5 Bolsa",
+    "marca": "Talliani",
+    "tipo": "Fideos",
+    "descripcion": "Fideo Pasta al Huevo Spaghetti N°5 Bolsa, 400 g",
+    "supermercado": 1,
+    "precio": "990.00",
+    "moneda": "CLP",
+    "imagen_url": "https://i5.walmartimages.cl/asr/473d00f1-87f8-4ae5-bef2-1fd199492004.18ba70b7b2eb4ecd481a246ab9dfd7f6.jpeg?null=&odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "producto_url": "https://super.lider.cl/ip/pastas-y-salsas/00780250000702?from=/search",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 96,
+  "fields": {
+    "nombre": "Fideo Pasta Spaghetti N°5 Bolsa",
+    "marca": "Lider",
+    "tipo": "Fideos",
+    "descripcion": "Fideo Pasta Spaghetti N°5 Bolsa, 400 g",
+    "supermercado": 1,
+    "precio": "760.00",
+    "moneda": "CLP",
+    "imagen_url": "https://i5.walmartimages.cl/asr/8283b721-8d60-4bfc-a5d0-be916eb87e18.90c7def93a2f9edaec76b5bad6c81031.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "producto_url": "https://super.lider.cl/ip/conoce-nuestras-marcas/00040000726874?from=/search",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 97,
+  "fields": {
+    "nombre": "Fideo Pasta Espirales Bolsa",
+    "marca": "Lider",
+    "tipo": "Fideos",
+    "descripcion": "Fideo Pasta Espirales Bolsa, 400 g",
+    "supermercado": 1,
+    "precio": "760.00",
+    "moneda": "CLP",
+    "imagen_url": "https://i5.walmartimages.cl/asr/569d153f-0495-4c56-bb03-db4e6ac28fae.a789bb516292f1b94bd0e271c081baf4.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "producto_url": "https://super.lider.cl/ip/conoce-nuestras-marcas/00780311100127?from=/search",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 98,
+  "fields": {
+    "nombre": "Fideo Pasta al Huevo Spirali Bolsa",
+    "marca": "Talliani",
+    "tipo": "Fideos",
+    "descripcion": "Fideo Pasta al Huevo Spirali Bolsa, 400 g",
+    "supermercado": 1,
+    "precio": "400.00",
+    "moneda": "CLP",
+    "imagen_url": "https://i5.walmartimages.cl/asr/f4f2124a-cf04-4b22-9998-a0a720747af9.bb3b90322bc55e3d1cbebe3d8c2e0333.jpeg?null=&odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "producto_url": "https://super.lider.cl/ip/pastas-y-salsas/00780250000804?from=/search",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 99,
+  "fields": {
+    "nombre": "Fideo Pasta Corbatas N°88 Bolsa, 400 g",
+    "marca": "Lucchetti",
+    "tipo": "Fideos",
+    "descripcion": "Fideo Pasta Corbatas N°88 Bolsa, 400 g",
+    "supermercado": 1,
+    "precio": "990.00",
+    "moneda": "CLP",
+    "imagen_url": "https://i5.walmartimages.cl/asr/90af6d53-7c29-40a3-a9bd-52efbc540fef.16c14584376d298ffe30c5f6a8a51165.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "producto_url": "https://super.lider.cl/ip/pastas-y-salsas/00780250000302?from=/search",
+    "disponible": true,
+    "fecha_actualizacion": "2025-10-27T00:00:00Z"
+  }
+},
+{
+  "model": "tucanasta.producto",
+  "pk": 100,
+  "fields": {
+    "nombre": "Fideo Pasta Corbatas N°80 Bolsa, 400 g",
+    "marca": "Carozzi",
+    "tipo": "Fideos",
+    "descripcion": "Fideo Pasta Corbatas N°80 Bolsa, 400 g",
+    "supermercado": 1,
+    "precio": "1050.00",
+    "moneda": "CLP",
+    "imagen_url": "https://i5.walmartimages.cl/asr/39f3e754-971a-4e0f-8859-c7348240810e.d896bea3cc271bc261c63d3089d7799e.jpeg?null=&odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "producto_url": "https://super.lider.cl/ip/pastas-y-salsas/00780257500603?from=/search",
     "disponible": true,
     "fecha_actualizacion": "2025-10-27T00:00:00Z"
   }
 }
-####me falta lider
 ]
+
+
+
